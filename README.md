@@ -41,7 +41,7 @@ Additionally, `train.csv` should include:
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/house-price-prediction.git
+    git clone https://github.com/nabin-ai/house-price-prediction.git
     cd house-price-prediction
     ```
 
