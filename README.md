@@ -11,7 +11,6 @@ This project implements a linear regression model to predict house prices based 
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
-- [License](#license)
 
 ## Project Description
 The goal of this project is to build a linear regression model that can predict house prices using features such as square footage (GrLivArea), number of bedrooms (BedroomAbvGr), and number of bathrooms (FullBath and HalfBath). The model is trained on the training dataset and used to predict prices for the testing dataset.
@@ -41,8 +40,8 @@ Additionally, `train.csv` should include:
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/nabin-ai/house-price-prediction.git
-    cd house-price-prediction
+    git clone https://github.com/nabin-ai/PRODIGY_ML_01.git
+    cd PRODIGY_ML_01
     ```
 
 2. Install the required packages:
