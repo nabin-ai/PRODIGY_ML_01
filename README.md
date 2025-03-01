@@ -1,4 +1,3 @@
-# PRODIGY_ML_01
 # House Price Prediction Model
 
 This project implements a linear regression model to predict house prices based on their square footage (GrLivArea), number of bedrooms, and number of bathrooms. The model is trained using a training dataset (`train.csv`) and predictions are made for the testing dataset (`test.csv`).
